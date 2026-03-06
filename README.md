@@ -44,7 +44,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thedishajyala/thedishajyala/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/thedishajyala/thedishajyala/output/github-snake.svg" alt="snake animation"/>
 </p>
 
 ---
