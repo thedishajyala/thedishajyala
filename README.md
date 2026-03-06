@@ -15,9 +15,6 @@
 
 🌱 Currently learning **DSA, Full-Stack Development, and GenAI**
 
-🚀 Interested in **AI research, system building, and impactful tech**
-
-🌠 Passionate about **astronomy, space science, and the universe**
 
 ---
 
