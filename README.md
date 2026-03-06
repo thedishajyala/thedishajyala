@@ -46,9 +46,7 @@
 
 ---
 
-## 🌠 Fun Fact
 
-> I enjoy **coding under the stars and thinking about the universe.**
 
 ---
 
