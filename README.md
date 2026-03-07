@@ -33,11 +33,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedishajyala&show_icons=true&theme=rose_pine"/>
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=thedishajyala&show_icons=true&theme=rose_pine"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedishajyala&layout=compact&theme=rose_pine"/>
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=thedishajyala&layout=compact&theme=rose_pine"/>
 </p>
 
 ---
