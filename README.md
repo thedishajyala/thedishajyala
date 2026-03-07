@@ -28,17 +28,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,tensorflow,pytorch,git,github,vscode,figma" alt="Databases & Tools" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=thedishajyala&show_icons=true&theme=rose_pine"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=thedishajyala&layout=compact&theme=rose_pine"/>
-</p>
 
 ---
 
