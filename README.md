@@ -21,7 +21,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,mysql,mongodb,tensorflow,pytorch,git,github,vscode,figma,supabase" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,tailwind,react,nextjs" alt="Languages & Frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,tensorflow,pytorch,git,github,vscode,figma" alt="Databases & Tools" />
 </p>
 
 ---
@@ -29,11 +33,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedishajyala&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedishajyala&show_icons=true&theme=rose_pine"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedishajyala&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedishajyala&layout=compact&theme=rose_pine"/>
 </p>
 
 ---
