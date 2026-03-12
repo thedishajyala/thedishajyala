@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha Jyala</h1>
-<h3 align="center">AI/ML Enthusiast • Developer • Exploring the Cosmos 🌌</h3>
+<h3 align="center">AI/ML Enthusiast • Developer • Exploring </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thedishajyala&label=Profile%20views&color=ff4d6d&style=flat" alt="thedishajyala" />
