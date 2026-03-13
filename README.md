@@ -2,6 +2,10 @@
 <h3 align="center">AI/ML Enthusiast • Developer • Exploring </h3>
 
 <p align="center">
+  <img src="https://github.com/rohan-pandeyy/rohan-pandeyy/raw/main/public/header.png" alt="Banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thedishajyala&label=Profile%20views&color=ff4d6d&style=flat" alt="thedishajyala" />
 </p>
 
