@@ -13,6 +13,7 @@
 
 AI & ML Undergraduate | Full-Stack Developer
 Building AI-powered products, real-time systems, and scalable web applications.
+
 React • Node.js • Python • GenAI • Agentic AI
 
 
