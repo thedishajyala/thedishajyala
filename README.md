@@ -11,13 +11,9 @@
 
 ---
 
-## 🌌 About Me
-
-🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**
-
-💻 I love building **web applications, AI projects, and solving problems with code**
-
-🌱 Currently learning **DSA, Full-Stack Development, and GenAI**
+AI & ML Undergraduate | Full-Stack Developer
+Building AI-powered products, real-time systems, and scalable web applications.
+React • Node.js • Python • GenAI • Agentic AI
 
 
 ---
