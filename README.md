@@ -24,13 +24,31 @@ Building AI-powered products, intelligent agents, and scalable full-stack applic
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,tailwind,react,nextjs" alt="Languages & Frameworks" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,tensorflow,pytorch,git,github,vscode,figma" alt="Databases & Tools" />
-</p>
+`Python` `JavaScript` `TypeScript` `Java` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js` `FastAPI` `REST APIs`
+
+**AI & GenAI**
+
+`OpenAI` `LangChain` `LangGraph` `RAG` `Hugging Face`
+`FAISS` `ChromaDB` `Prompt Engineering` `AI Agents`
+
+**Databases**
+
+`MongoDB` `MySQL` `PostgreSQL`
+
+**Tools**
+
+`Git` `GitHub` `Docker` `VS Code` `Postman`
+
 
 
 ---
