@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Disha</h1>
-<h3 align="center">AI/ML Enthusiast • Developer • Exploring </h3>
+<h1 align="center">Hi 👋, I'm Disha Jyala</h1>
+
+
 
 <p align="center">
   <img src="https://github.com/rohan-pandeyy/rohan-pandeyy/raw/main/public/header.png" alt="Banner" />
@@ -11,11 +12,13 @@
 
 ---
 
+<p align="center">
+Building AI-powered products, intelligent agents, and scalable full-stack applications.
+</p>
 
-Building AI-powered products, real-time systems, and scalable web applications.
-
-React • Node.js • Python • GenAI • Agentic AI
-
+<p align="center">
+<strong>LLMs • RAG • Agentic AI • Full Stack • AI Engineering</strong>
+</p>
 
 ---
 
