@@ -26,7 +26,7 @@ Building AI-powered products, intelligent agents, and scalable full-stack applic
 
 **Languages**
 
-`Python` `JavaScript` `TypeScript` `Java` `SQL` '
+`Python` `JavaScript` `TypeScript` `Java` `SQL` 
 
 **AI & GenAI**
 
