@@ -26,24 +26,12 @@ Building AI-powered products, intelligent agents, and scalable full-stack applic
 
 **Languages**
 
-`Python` `JavaScript` `TypeScript` `Java` `SQL`
-
-**Frontend**
-
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
-
-**Backend**
-
-`Node.js` `Express.js` `FastAPI` `REST APIs`
+`Python` `JavaScript` `TypeScript` `Java` `SQL` '
 
 **AI & GenAI**
 
 `OpenAI` `LangChain` `LangGraph` `RAG` `Hugging Face`
 `FAISS` `ChromaDB` `Prompt Engineering` `AI Agents`
-
-**Databases**
-
-`MongoDB` `MySQL` `PostgreSQL`
 
 **Tools**
 
