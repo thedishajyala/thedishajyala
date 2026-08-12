@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha Jyala</h1>
 
-
-
-<p align="center">
-  <img src="https://github.com/rohan-pandeyy/rohan-pandeyy/raw/main/public/header.png" alt="Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thedishajyala&label=Profile%20views&color=ff4d6d&style=flat" alt="thedishajyala" />
-</p>
-
 ---
 
 <p align="center">
